@@ -1,8 +1,8 @@
 # Hi there, I'm Ali Aliyyan 👋
 
-### 🚀 Data Analytics & Open Source Contributor
+### AI Automation Engineer
 
-Welcome to my profile! I am passionate about data-driven decision-making, cloud-native technologies, and contributing to open-source communities.
+Welcome to my profile! I am passionate about data-driven decision-making, cloud-native technologies,AI engineering and contributing to open-source communities.
 
 ---
 
