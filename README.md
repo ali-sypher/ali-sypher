@@ -31,10 +31,10 @@ AI Automation Engineer and Data Scientist specializing in **Large Language Model
 
 ## 💡 Key Highlights & Experience
 
-- 🤖 **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live data pipelines.
-- ⚙️ **Data Scientist @ Tipsiti:** Built large-scale, dynamic web scraping pipelines using Playwright, Selenium, and Scrapy.
-- 🧠 **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
-- ⭐ **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform influencer databases (50k+ profiles) and built custom YouTube Data API v3 integration layers.
+-  **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live data pipelines.
+-  **Data Scientist @ Pearls Club:** Built large-scale, dynamic web scraping pipelines using Playwright, Selenium, and Scrapy.
+-  **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
+-  **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform databases and built custom YouTube Data API v3 integration layers.
 
 ---
 
