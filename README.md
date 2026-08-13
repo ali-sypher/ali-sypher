@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Aliyyan 👋
 
-### 🤖 AI Automation Engineer | Data Scientist & RAG Systems Builder
+###  AI Automation Engineer | Data Scientist & RAG Systems Builder
 
 AI Automation Engineer and Data Scientist specializing in **Large Language Models (LLMs)**, **Enterprise RAG Pipelines**, and **Scalable Web Scraping Infrastructure**. Currently studying BS Artificial Intelligence at SZABIST and contributing to open-source cloud-native ecosystems.
 
