@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Aliyyan 👋
 
-###  AI Automation Engineer | Data Scientist & RAG Systems Builder
+### 🤖 AI Automation Engineer | Data Scientist & RAG Systems Builder
 
 AI Automation Engineer and Data Scientist specializing in **Large Language Models (LLMs)**, **Enterprise RAG Pipelines**, and **Scalable Web Scraping Infrastructure**. Currently studying BS Artificial Intelligence at SZABIST and contributing to open-source cloud-native ecosystems.
 
@@ -32,9 +32,9 @@ AI Automation Engineer and Data Scientist specializing in **Large Language Model
 ## 💡 Key Highlights & Experience
 
 -  **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live merchant data pipelines.
--  **Data Scientist @ Pearls Club :** Built large-scale, dynamic web scraping pipelines capturing nested infrastructure using Playwright, Selenium, and Scrapy.
+-  **Data Scientist @ Tipsiti:** Built large-scale, dynamic web scraping pipelines capturing nested infrastructure using Playwright, Selenium, and Scrapy.
 -  **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
--  **Top-Rated Freelancer on Upwork (5.0 ★):** Extracted large multi-platform databases and built custom YouTube Data API v3 integration layers.
+-  **[Top-Rated Freelancer (5.0 ★)](https://www.upwork.com/freelancers/alia319):** Extracted large multi-platform databases and built custom AI software solutions.
 
 ---
 
@@ -67,5 +67,5 @@ AI Automation Engineer and Data Scientist specializing in **Large Language Model
 ---
 
 <p align="center">
-  📫 <b>Connect with me:</b> <a href="mailto:ali.alyan82@gmail.com">ali.alyan82@gmail.com</a> | <a href="https://linkedin.com/in/ali-a-7b7306189">LinkedIn</a>
+  📫 <b>Connect with me:</b> <a href="mailto:ali.alyan82@gmail.com">ali.alyan82@gmail.com</a> | <a href="https://linkedin.com/in/ali-a-7b7306189">LinkedIn</a> | <a href="https://www.upwork.com/freelancers/alia319">Upwork</a>
 </p>
