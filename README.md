@@ -31,27 +31,37 @@ AI Automation Engineer and Data Scientist specializing in **Large Language Model
 
 ## 💡 Key Highlights & Experience
 
--  **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live data pipelines.
--  **Data Scientist @ Pearls Club:** Built large-scale, dynamic web scraping pipelines using Playwright, Selenium, and Scrapy.
--  **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
--  **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform databases and built custom YouTube Data API v3 integration layers.
+- 🤖 **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live merchant data pipelines.
+- ⚙️ **Data Scientist @ Tipsiti:** Built large-scale, dynamic web scraping pipelines capturing nested infrastructure using Playwright, Selenium, and Scrapy.
+- 🧠 **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
+- ⭐ **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform databases (50k+ profiles) and built custom YouTube Data API v3 integration layers.
 
 ---
 
 ## 🛠️ Tech Stack & Capabilities
 
-- **Languages:** Python, SQL, JavaScript (ES6+), Java, HTML/CSS
-- **AI / ML & Frameworks:** PyTorch, Scikit-learn, LangChain, OpenAI API, Claude API, Multi-Agent Systems
-- **Vector DBs & RAG:** ChromaDB, FAISS, Sentence Transformers, Embedding Pipelines
-- **Data Engineering:** Playwright, Selenium, Scrapy, BeautifulSoup, Pandas, PostgreSQL, MongoDB
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+* **Languages:** Python, SQL, JavaScript (ES6+), Java, HTML/CSS
+* **AI / ML & Frameworks:** PyTorch, Scikit-learn, LangChain, OpenAI API, Claude API, Multi-Agent Systems
+* **Vector DBs & RAG:** ChromaDB, FAISS, Sentence Transformers, Embedding Pipelines
+* **Data Engineering:** Playwright, Selenium, Scrapy, BeautifulSoup, Pandas, PostgreSQL, MongoDB
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-sypher&show_icons=true&theme=dark" alt="Ali's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sypher&layout=compact&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sypher&theme=dark" alt="Ali's GitHub Streak" width="80%" />
 </p>
 
 ---
