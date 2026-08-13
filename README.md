@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Aliyyan 👋
 
-### 🤖 AI Automation Engineer | Data Scientist & RAG Systems Builder
+###  AI Automation Engineer | Data Scientist & RAG Systems Builder
 
 AI Automation Engineer and Data Scientist specializing in **Large Language Models (LLMs)**, **Enterprise RAG Pipelines**, and **Scalable Web Scraping Infrastructure**. Currently studying BS Artificial Intelligence at SZABIST and contributing to open-source cloud-native ecosystems.
 
@@ -32,9 +32,9 @@ AI Automation Engineer and Data Scientist specializing in **Large Language Model
 ## 💡 Key Highlights & Experience
 
 - 🤖 **AI Growth Specialist @ ZAG Merchant Solutions:** Engineered AI-enhanced workflows, LLM CRM integrations, and live merchant data pipelines.
-- ⚙️ **Data Scientist @ Tipsiti:** Built large-scale, dynamic web scraping pipelines capturing nested infrastructure using Playwright, Selenium, and Scrapy.
+- ⚙️ **Data Scientist @ Pearls Club :** Built large-scale, dynamic web scraping pipelines capturing nested infrastructure using Playwright, Selenium, and Scrapy.
 - 🧠 **RAG & Neural Indexing:** Built **Data Vault 2.0** (GitHub Ingestion AI) and **Finance Insight GPT** using LangChain, ChromaDB, and OpenAI.
-- ⭐ **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform databases (50k+ profiles) and built custom YouTube Data API v3 integration layers.
+-  **Top-Rated Freelancer (5.0 ★):** Extracted large multi-platform databases and built custom YouTube Data API v3 integration layers.
 
 ---
 
